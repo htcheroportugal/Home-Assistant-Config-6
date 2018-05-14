@@ -12,7 +12,7 @@
 
 | Home Assistant Hardware |
 |---|
-| <h1 align="center">Kingia Castle Smart Home Configuration</h1> |
+| <p align="center">Kingia Castle Smart Home Configuration</p> |
 
 
 
