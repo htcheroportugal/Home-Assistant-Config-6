@@ -12,7 +12,7 @@
 </p>
 <hr --- </hr>
 
-| <h3 align="left">Home Assistant Hardware</h3> |  |  | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="200"/> |
+<h3 align="left">Home Assistant Hardware</h3> <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="200"/> 
 <hr --- </hr>
 
 
