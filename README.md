@@ -5,7 +5,7 @@
 <hr *** </hr>
 <p align="center">Home Assistant Configuration &amp; Documentation for my Smart House.</p>
 <p align="center">
-  I live in Australia <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.
+  I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.
 </p>
 <hr --- </hr>
 
