@@ -4,7 +4,7 @@
 <h1 align="center">Kingia Castle Smart Home Configuration</h1>
 <hr *** </hr>
 <p align="center">Home Assistant Configuration &amp; Documentation for my Smart House.</p>
-<p align="center">I live in emo::ji("au").</p>
+<p align="center">I live in Australia my links are for where I purchased from, there will be better (and most likely cheaper) sites in your local regions .</p>
 <hr --- </hr>
 
 ### Home Assistant Hardware Topology
