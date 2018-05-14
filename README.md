@@ -12,7 +12,7 @@
 
 | Home Assistant Hardware |
 |---|
-| [Kingia Castle Smart Home Configuration](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) |
+| [Raspberry Pi 3 Model B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) |
 
 
 
