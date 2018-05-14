@@ -10,8 +10,9 @@
 ***Insert Topology Here***
 <hr ---</hr>
 
-| #### Home Assistant Hardware |
-|------------------------------|
+| Home Assistant Hardware |
+|---|
+|
 
 
 
