@@ -7,7 +7,9 @@
 <hr ---</hr>
 
 #### Home Assistant Hardware Topology
-***Insert Topology Here***
+<p align="center">
+  <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20Topo.png"/>
+</p>
 <hr ---</hr>
 
 | Home Assistant Hardware |
