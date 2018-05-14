@@ -7,5 +7,7 @@
 
 #### Home Assistant Hardware Topology
 
+<hr ---</hr>
+
 | Rasberry Pi B                                                                |
 |---|
