@@ -12,7 +12,7 @@
 </p>
 <hr ---</hr>
 
-| Home Assistant Hardware                                                           <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="150"/> |
+| Home Assistant Hardware&npsp;&nbsp;&npsp;&nbsp;&npsp;&npsp;&nbsp;&npsp;&nbsp;&npsp;<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="150"/> |
 | --- |
 
 | [Raspberry Pi 3 Model B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) | [Raspberry Pi 3 Model B+ Enclosure](https://core-electronics.com.au/raspberry-pi-3-case-enclosure.html) | [SandDisk Ultra 32GB Micro SD Card](https://www.officeworks.com.au/shop/officeworks/p/sandisk-ultra-32gb-micro-sdhc-memory-card-sdsq32gb) |
