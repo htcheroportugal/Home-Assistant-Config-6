@@ -3,6 +3,6 @@
 </p>
 
 <h1 align="center">Kingia Castle Smart Home Configuration</h1>
-
+<hr ---</hr>
 
 Home Assistant Configuration &amp; Documentation for my Smart House.
