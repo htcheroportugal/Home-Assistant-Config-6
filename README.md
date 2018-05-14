@@ -4,6 +4,7 @@
 <h1 align="center">Kingia Castle Smart Home Configuration</h1>
 <hr *** </hr>
 <p align="center">Home Assistant Configuration &amp; Documentation for my Smart House.</p>
+<p align="center">I live in emo::ji("au").</p>
 <hr --- </hr>
 
 ### Home Assistant Hardware Topology
@@ -14,6 +15,7 @@
 
 <h3 align="left">Home Assistant Hardware</h3> 
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="200"/> 
+<p align="left">There is nothing special regarding the hardware used when I start to notice available hardware resources becoming exhausted I will look to move to another platform. 
 <hr --- </hr>
 
 
