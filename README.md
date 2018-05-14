@@ -28,7 +28,7 @@
 <h3 align="left">Home Assistant Software</h3>
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20logo%202%20.png" width="200"/>
 <h4 align="left">Hassio:</h4>
-_______
+---
 <p align="left">As I am still new and always learning to Home Assistant, I decided to install HASSIO. I have been using HASSIO for since December 2017 for anyone new to HA I recommend this type of installation and once you are more comfortable with it I would look to move onto some of the other methods of installation.</p>
 <h4 align="left">MQTT Broker:</h4>
 ____________
