@@ -45,7 +45,7 @@ After using HA for a few months I began to really enjoy sometimes complicated me
 <hr --- </hr>
 
 <h3 align="left">Kingia Castle Network</h3>
-<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Network%20Topo.png"/>
+<img src=""/>
 <p align="left">My Internet is a 100/40Mb FTTN solution where the fibre is terminated about 50m up the road and travels down phones lines (VDSL2+) for the remainder I typically acheive speeds of 92/35Mb/s. The core of my network switching devices are made up of Mikrotik Cloud Router Series, whilst my wireless network is comprised of both Altai and UBNT for dedicated PTP links. I use a VPN and isolate my Smart Home devices from my Personal and Guest access networks through VLAN's and client isolation is implimented on the guest network.</p>
 <hr --- </hr>
 
