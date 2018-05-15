@@ -80,7 +80,7 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <p align="left">I use a combination of Amazon Echo and Echo Dot's in conjunction with HA Cloud with its Alexa Intergration to enable voice control over most functions in the house. My wife hates the voice control (she wants to be the only female voice of control in our house) but my young boys love it.</p>
 * Light Control - LED Strips, Wall Switches and Bulb specific (Brightness, Colour, Warmth etc)</br>
 * Climate Control - Control Upstairs/Downstairs Climate (temp up/down etc) turn ceiling fans on off (no speed control yet)</br>
-* Media Control - Turn on/off Media Devices, player control of Kodi Media
+* Media Control - Turn on/off Media Devices, player control of Kodi Media</br>
 * Group Control - I can turn on/off all devices in a group e.g. "Alexa, turn off Downstairs" as we go to bed turns off all devices</br>
 * Scene Selection - Enable predinfined scenes with voice command
 * Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", Turn on Entertaining mode"</br>
