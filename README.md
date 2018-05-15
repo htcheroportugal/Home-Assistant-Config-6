@@ -67,7 +67,8 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <p align="left">I have a few impossible to cable areas of my 2 storey house (without running external ducting), between upstairs and downstairs and the outer wall of the downstairs area (where my media room is located). I have used a 19DBi UBNT NBE in AP mode connected directly to my Core Switch which links on 40Mhz channel to a unit in my media room and another upstairs which feeds into a Mikrotik switch that connects any ethernet devices upstairs</p>
 <hr --- </hr>
 
-| <h3 align="left">Voice Control & TTS</h3> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/alexa.png" width="200"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo.png" width="200"/> |
-| --- | --- | --- |
+<h3 align="left">Voice Control & TTS</h3> 
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/alexa.png" width="200"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo.png" width="200"/> |
+| --- | --- |
 <p align="left">I have used Hassio with standard Add-On store packages which include Appdaemon for use with HaDashboard, Mosquitto Broker for MQTT Broker & Node-RED for more complex Automation flows.</p>
 <hr --- </hr>
