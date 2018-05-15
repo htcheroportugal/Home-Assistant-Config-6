@@ -30,7 +30,9 @@
 <h4 align="left">Hassio:</h4>
 <p align="left">As I am still new and always learning to Home Assistant, I decided to install HASSIO. I have been using HASSIO for since December 2017 for anyone new to HA I recommend this type of installation and once you are more comfortable with it I would look to move onto some of the other methods of installation.</p>
 <h4 align="left">MQTT Broker:</h4>
-One of the first things I needed to do once I got HA up and running was to setup a MQTT Broker, I decided to use [CloudMQTT](https://www.cloudmqtt.com/) as I found this really helpful guide from [BRUH](https://www.youtube.com/watch?v=VaWdvVVYU3A) and was up and running in 15mins. The main problem I had with this method was using a cloud based service to control my mqtt based light switches, using Owntracks for Device Tracking was also not what was required for Automations based of presence. I decided to install Mosquitto Broker from the Hass.io Add-On Store. Doing this means I can host the MQTT Broker locally therefor having control of who can access my devices and data.
+<p>
+  One of the first things I needed to do once I got HA up and running was to setup a MQTT Broker, I decided to use [CloudMQTT](https://www.cloudmqtt.com/) as I found this really helpful guide from [BRUH](https://www.youtube.com/watch?v=VaWdvVVYU3A) and was up and running in 15mins. The main problem I had with this method was using a cloud based service to control my mqtt based light switches, using Owntracks for Device Tracking was also not what was required for Automations based of presence. I decided to install Mosquitto Broker from the Hass.io Add-On Store. Doing this means I can host the MQTT Broker locally therefor having control of who can access my devices and data.
+ </p>
 <hr --- </hr>
 
 | [Hass.io](https://www.home-assistant.io/hassio/installation/) | [Mosquitto MQTT Broker](https://www.home-assistant.io/addons/mosquitto/) | [AppDaemon - HADashboard](https://www.home-assistant.io/docs/ecosystem/appdaemon/) | [Node-RED](https://github.com/notoriousbdg/hassio-addons/tree/master/node-red) |
