@@ -46,7 +46,7 @@ After using HA for a few months I began to really enjoy sometimes complicated me
 
 <h3 align="left">Kingia Castle Network</h3>
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Network%20Topo.png"/>
-<p align="left">My Internet is a 100/40Mb FTTN solution where the fibre is terminated about 50m up the road and travels down phones lines (VDSL2+) for the remainder I typically acheive speeds of 92/35Mb/s. The core of my network switching devices are made up of Mikrotik Cloud Router Series, whilst my wireless network is comprised of both Altai and UBNT for dedicated PTP links. I use a VPN and isolate my Smart Home devices from my Personal and Guest access networks through VLAN's and client isolation is implimented on the guest network.</p>
+<p align="left">My Internet is a 100/40Mb/s FTTN solution where the fibre is terminated about 50m up the road and travels down phones lines (VDSL2+) for the remainder I typically acheive speeds of 92/35Mb/s. The core of my network switching devices are made up of Mikrotik Cloud Router Series, whilst my wireless network is comprised of both Altai and UBNT devices. I use a VPN and isolate my Smart Home devices from my Personal and Guest access networks through VLAN's and client isolation is implimented on the guest network.</p>
 <hr --- </hr>
 
 | [Core Router](https://mikrotik.com/product/CCR1009-7G-1C-PC) | [Core Switch](https://mikrotik.com/product/CRS125-24G-1S-IN) | [Upstairs Switch](https://mikrotik.com/product/CRS106-1C-5S) | [Cabling]() |
@@ -57,3 +57,6 @@ After using HA for a few months I began to really enjoy sometimes complicated me
 | --- | --- | --- | --- |
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Altai-A2c.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Nano-19-AC.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Nano-19-AC.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Network%20Manage.png" width="250"/> |
 
+<h4 align="left">Core Router:</h4>
+<p align="left">My Core Router handles my PPPoE authentication, NAT and firewall rules. All of my remote access is handled by a build it Cloud DNS service on the Mikrotik Router along with an extensive list of non standard port forwards to gain access to every device I can remotley. I previously used the Mikrotik Device Tracker platform for online/offline status but found the response time too long so instead now use the Ping platform for device status monitoring.</p>
+<h4 align="left">Core Switch:</h4>
