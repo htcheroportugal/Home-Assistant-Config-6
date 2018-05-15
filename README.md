@@ -85,4 +85,7 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 * Scene Selection - Enable predinfined scenes with voice command</br>
 * Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", Turn on Entertaining mode"</br>
 <h4 align="left">Announcements TTS</h4>
-<p align="left">I use a combination of Amazon Echo and Echo Dot's in conjunction with HA Cloud with its Alexa Intergration to enable voice control over most functions in the house. My wife hates the voice control (she wants to be the only female voice of control in our house) but my young boys love it.</p>
+<p align="left">For TTS I use a combination of Kodi devices (I have one always on downstairs) and Android tablets with Lannouncer. I love the TTS and notifier component this is where you can staret to give your Smart Home some personality aswell as keep informed of events & reminders. I also use it for feed back after certain actions like confirmation of fan speed settings.</p>
+* Notify of Presence - Unique messages played upon my wife and I arrival home</br>
+* Notify of Tasks - Message played when washing/dryer have finished their respective cycles, with 30min reminders until emptied</br>
+* Notify of Reoccuring evnts - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
