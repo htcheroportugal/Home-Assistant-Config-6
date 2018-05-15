@@ -62,8 +62,4 @@ After using HA for a few months I began to really enjoy sometimes complicated me
 <h4 align="left">Core Switch:</h4>
 <p align="left">My Core Switch is just a managed GBit Switch all of my ethernet connected devices connect to this via Cat6 in wall Cabling into Cat6 Wall plates and all use Cat6 Patch Cables.</p>
 <h4 align="left">Wireless Access:</h4>
-<p align="left">I have 4 SSID
-  1. admin access
-  2. family access
-  3. guest access
-  4. smart home device access</p>
+<p align="left">I have 4 SSID one for each of admin access, family access, guest access & smart home devices access. I used to run a Cambium cnPilot E400 which I was given by Cambium for testing in a "Conference Environment" it was meant to be able to handle 100 similtaneous youtube streams well it started to fall over after about 35 connected clients (not streaming anything). Rather then filling the house with several APs I decided to go for the best in the business and am using a single ALtai AP which is capable of handling 512 clients (currently have over 70 and still going strong). I only use 2.4G for access and have the 5G radio turned off as I use that spectrum for backhaul.</p>
