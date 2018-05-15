@@ -60,3 +60,10 @@ After using HA for a few months I began to really enjoy sometimes complicated me
 <h4 align="left">Core Router:</h4>
 <p align="left">My Core Router handles my PPPoE authentication, NAT and firewall rules. All of my remote access is handled by a build it Cloud DNS service on the Mikrotik Router along with an extensive list of non standard port forwards to gain access to every device I can remotley. I previously used the Mikrotik Device Tracker platform for online/offline status but found the response time too long so instead now use the Ping platform for device status monitoring.</p>
 <h4 align="left">Core Switch:</h4>
+<p align="left">My Core Switch is just a managed GBit Switch all of my ethernet connected devices connect to this via Cat6 in wall Cabling into Cat6 Wall plates and all use Cat6 Patch Cables.</p>
+<h4 align="left">Wireless Access:</h4>
+<p align="left">I have 4 SSID
+  1. admin access
+  2. family access
+  3. guest access
+  4. smart home device access</p>
