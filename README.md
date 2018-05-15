@@ -68,6 +68,6 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <hr --- </hr>
 
 <h3 align="left">Voice Control & TTS</h3>
-<p img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/alexa.png" width="200"> <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo.png" width="200"</p> 
+<p img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/alexa.png" width="200"/> <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo.png" width="200"</p> 
 <p align="left">I have used Hassio with standard Add-On store packages which include Appdaemon for use with HaDashboard, Mosquitto Broker for MQTT Broker & Node-RED for more complex Automation flows.</p>
 <hr --- </hr>
