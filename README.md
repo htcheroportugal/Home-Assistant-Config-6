@@ -82,5 +82,5 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 * Climate Control - Control Upstairs/Downstairs Climate (temp up/down etc) turn ceiling fans on off (no speed control yet)</br>
 * Media Control - Turn on/off Media Devices, player control of Kodi Media</br>
 * Group Control - I can turn on/off all devices in a group e.g. "Alexa, turn off Downstairs" as we go to bed turns off all devices</br>
-* Scene Selection - Enable predinfined scenes with voice command
-* Automation Control - Perharps the best part the ability &npsp; to toggle Automations "Turn on Morning Cartoons", Turn on Entertaining mode"</br>
+* Scene Selection - Enable predinfined scenes with voice command</br>
+* Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", Turn on Entertaining mode"</br>
