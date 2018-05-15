@@ -88,4 +88,4 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <p align="left">For TTS I use a combination of Kodi devices (I have one always on downstairs) and Android tablets with Lannouncer. I love the TTS and notifier component this is where you can staret to give your Smart Home some personality aswell as keep informed of events & reminders. I also use it for feed back after certain actions like confirmation of fan speed settings.</p>
 * Notify of Presence - Unique messages played upon my wife and I arrival home</br>
 * Notify of Tasks - Msg played when washer/dryer have finished their respective cycles, with 30min reminders until emptied</br>
-* Notify of Reoccuring evnts - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
+* Reoccuring Events - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
