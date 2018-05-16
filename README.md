@@ -100,3 +100,17 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
 * Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
 <hr --- </hr>
+
+<h3 align="left">Gateways</h3> 
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/SmartThings%20Logo.png" width="150"/> |
+| --- | --- |
+
+<p align="left">The voice control war has only just hit Australian shores, I dipped my toes into the Alexa waters a few years back with the original Echo and it was a bit of a flop due to nothing being supported in Australia. Once I moved to HA and its Amazon cloud component I dusted off the Echo and now have voice control over a majority of my Smart Home.</p>
+<hr --- </hr>
+
+| [Amazon Echo](https://www.jbhifi.com.au/amazon/amazon-echo-plus-with-bonus-philips-hue-bulb-edison/574929/) | [Amazon Echo Dot](https://www.jbhifi.com.au/amazon/amazon-echo-dot-2nd-generation-black/574910/) | [Kodi TTS](https://www.home-assistant.io/components/notify.kodi/) | [Lannouncer](https://www.home-assistant.io/components/notify.lannouncer/) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Amazon%20-%20Echo.png" height="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Amazon%20-%20Dot.png" width="200"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo%202.png" width="200"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Google%20TTS.png" width="200"/> |
+
+<h4 align="left">Voice Control:</h4>
+<p align="left">I use a combination of Amazon Echo and Echo Dot's in conjunction with HA Cloud with its Alexa Intergration to enable voice control over most functions in the house. My wife hates the voice control (she wants to be the only female voice of control in our house) but my young boys love it.</p>
