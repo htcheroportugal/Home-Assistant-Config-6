@@ -117,3 +117,19 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <p align="left">As stated above I use the Xiaomi Gateway as a bridge for all of my Xiaomi family of Zigbee and Wi-FI based sensors into HA. It has a not so friendly to use App and all spoken commands are in Chinese. It does intergrate with its ecosystem ok, with support for using its switches as door bells and playing a sound it also has a rgb led which will change colours on events like smoke detection it turns red or alarm trigger.</p>
 <h4 align="left">Z-Wave Gateway:</h4>
 <p align="left">I bought a Smart Things Hub at the same time I purchased my Echo whilst I was in the USA, I had intended to use it as the bases of my smart home but once again there was no support for the Australian market at the the time and there still is no word of it being released here. I still keep it around as one of the things on my list still to intergrate is my front door lock and the security protocols on most Door locks dont work directly with HA but they will with Smart Things. Also most door locks seem to use Z-Wave protocol, the frequancies for Z-Wave differ for Australia from the USA (here in Australia that part of the spectrum is used by a cellular carrier) so I will need to change it anyway. So at the moment its a pretty white brick occupying space in my data rack and network I am hoping I can find a decent Wi-Fi/Bluetooth Doorlock and can do away with it altogether.</p>
+<hr --- </hr>
+
+<h3 align="left">Sensors</h3> 
+
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/SmartThings%20Logo.png" width="200"/> |
+| --- | --- |
+
+<p align="left">At the moment the majority of my sensors are Xiaomi so I need to use their Gateway to intergrate them with HA. I also have a Smart Things Hub which I will use to connect any Z-Wave devices. I would prefer to move away from third party cloud based Gateways such as the 2 above, I am following this thread (https://community.home-assistant.io/t/zigbee2mqtt-getting-rid-of-your-proprietary-zigbee-bridges-xiaomi-hue-tradfri/52108) with interest currently and plan to move over to this platform removing the need to use the Xiaomi Gateway altogether.</p>
+<hr --- </hr>
+
+| [Xiaomi Gateway](https://www.banggood.com/Original-Xiaomi-Upgrade-Smart-Home-WiFi-Remote-Control-Multi-functional-Gateway-p-1047282.html?rmmds=search) | [Zigbee](http://www.zigbee.org/what-is-zigbee/) | [SmartThings Hub](https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE) | [Z-Wave](http://www.z-wave.com/) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Gateway.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Zigbee.png" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Samsung-Smart-Hub-1.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/ZWave.png" width="250"/> |
+
+<h4 align="left">Zigbee Gateway:</h4>
+<p align="left">As stated above I use the Xiaomi Gateway as a bridge for all of my Xiaomi family of Zigbee and Wi-FI based sensors into HA. It has a not so friendly to use App and all spoken commands are in Chinese. It does intergrate with its ecosystem ok, with support for using its switches as door bells and playing a sound it also has a rgb led which will change colours on events like smoke detection it turns red or alarm trigger.</p>
