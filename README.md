@@ -98,5 +98,5 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Notify of Tasks - Msg played when washer/dryer have finished their respective cycles, with 30min reminders until emptied</br>
 * Reoccurring Events - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
-* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbps; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
+* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
 <hr --- </hr>
