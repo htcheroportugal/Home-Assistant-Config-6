@@ -121,7 +121,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 
 <h3 align="left">Sensors</h3> 
 
-| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/SmartThings%20Logo.png" width="200"/> |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Logo.png" width="200"/> |
 | --- | --- |
 
 <p align="left">At the moment the majority of my sensors are Xiaomi so I need to use their Gateway to intergrate them with HA. I also have a Smart Things Hub which I will use to connect any Z-Wave devices. I would prefer to move away from third party cloud based Gateways such as the 2 above, I am following this thread (https://community.home-assistant.io/t/zigbee2mqtt-getting-rid-of-your-proprietary-zigbee-bridges-xiaomi-hue-tradfri/52108) with interest currently and plan to move over to this platform removing the need to use the Xiaomi Gateway altogether.</p>
