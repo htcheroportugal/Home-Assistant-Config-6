@@ -102,6 +102,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <hr --- </hr>
 
 <h3 align="left">Gateways</h3> 
+
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/SmartThings%20Logo.png" width="150"/> |
 | --- | --- |
 
