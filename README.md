@@ -67,8 +67,11 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <p align="left">I have a few impossible to cable areas of my 2 storey house (without running external ducting), between upstairs and downstairs and the outer wall of the downstairs area (where my media room is located). I have used a 19DBi UBNT NBE in AP mode connected directly to my Core Switch which links on 40Mhz channel to a unit in my media room and another upstairs which feeds into a Mikrotik switch that connects any ethernet devices upstairs</p>
 <h4 align="left">Network Management:</h4>
 <p align="left">I use mikrotik for network configuration due to its highly configurable nature but it has a steep learning curve. I use these as I have been working with the product for over 12 years and am comfortable with it. I use winbox to access Mikrotik devices and prefer to do any configurations via the CLI but the products do have a Web UI which is usable for most functions.</br> 
+
 UBNT devices are configured by their Web UI and then managed by a CRM Point Device (overkill for 3 devices) they have been set and forget with only firmware upgrades performed if they address any security patches.</br> 
-Altai AP is configured by its Web UI, these are commercial APs and are not designed with end users in mind. The UI is unpolished and hard to navigate if you dont understand wireless and it is meant for wireless networking engineers. It is again highly configurable although there is nothing really special here just 4 SSID (capable of up to 32) and VLAN tagging for each.</br> 
+
+Altai AP is configured by its Web UI, these are commercial APs and are not designed with end users in mind. The UI is unpolished and hard to navigate if you dont understand wireless and it is meant for wireless networking engineers. It is again highly configurable although there is nothing really special here just 4 SSID (capable of up to 32) and VLAN tagging for each.</br>
+
 The big bonus with Altai is their antenna design and ability to cover a great distance with a single AP and the amount of simultaneous connected clients it can handle. In my place so far I have tried Mikrotik (coverage is poor due to low power and antenna design), UBNT (poor client handling and very susceptible to interference), Cambium (poor coverage and client handling was better than UBNT but not enough), Ruckus (great coverage poor client and roaming handover without controller)</p>
 <hr --- </hr>
 
@@ -95,5 +98,5 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Notify of Tasks - Msg played when washer/dryer have finished their respective cycles, with 30min reminders until emptied</br>
 * Reoccurring Events - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
-* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off and have &nbsp; TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
+* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
 <hr --- </hr>
