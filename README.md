@@ -91,7 +91,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Media Control - Turn on/off Media Devices, player control of Kodi Media</br>
 * Group Control - I can turn on/off all devices in a group e.g. "Alexa, turn off Downstairs" as we go to bed turns off all devices</br>
 * Scene Selection - Enable predinfined scenes with voice command</br>
-* Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", Turn on Entertaining mode"</br>
+* Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", &nbsp; "Turn on Entertaining mode"</br>
 <h4 align="left">Announcements TTS</h4>
 <p align="left">For TTS I use a combination of Kodi devices (I have one always on downstairs) and Android tablets with Lannouncer. I love the TTS and notifier component this is where you can staret to give your Smart Home some personality aswell as keep informed of events & reminders. I also use it for feed back after certain actions like confirmation of fan speed settings.</p>
 * Notify of Presence - Unique messages played upon my wife and I arrival home</br>
