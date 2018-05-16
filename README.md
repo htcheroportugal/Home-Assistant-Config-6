@@ -91,12 +91,12 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Media Control - Turn on/off Media Devices, player control of Kodi Media</br>
 * Group Control - I can turn on/off all devices in a group e.g. "Alexa, turn off Downstairs" as we go to bed turns off all devices</br>
 * Scene Selection - Enable predinfined scenes with voice command</br>
-* Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", "Turn on &nbsp; &nbsp; &nbsp; Entertaining mode"</br>
+* Automation Control - Perharps the best part the ability to toggle Automations "Turn on Morning Cartoons", "Turn on &nbsp; &nbsp; &nbsp; &nbsp; Entertaining mode"</br>
 <h4 align="left">Announcements TTS</h4>
 <p align="left">For TTS I use a combination of Kodi devices (I have one always on downstairs) and Android tablets with Lannouncer. I love the TTS and notifier component this is where you can staret to give your Smart Home some personality aswell as keep informed of events & reminders. I also use it for feed back after certain actions like confirmation of fan speed settings.</p>
 * Notify of Presence - Unique messages played upon my wife and I arrival home</br>
 * Notify of Tasks - Msg played when washer/dryer have finished their respective cycles, with 30min reminders until emptied</br>
 * Reoccurring Events - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
-* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbsp; &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
+* Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
 <hr --- </hr>
