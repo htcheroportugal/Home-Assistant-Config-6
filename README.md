@@ -106,12 +106,12 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/SmartThings%20Logo.png" width="200"/> |
 | --- | --- |
 
-<p align="left">***Content in here***</p>
+<p align="left">At the moment the majority of my sensors are Xiaomi so I need to use their Gateway to intergrate them with HA. I also have a Smart Things Hub which I will use to connect any Z-Wave devices. I would prefer to move away from third party cloud based Gateways such as the 2 above, I am following this thread (https://community.home-assistant.io/t/zigbee2mqtt-getting-rid-of-your-proprietary-zigbee-bridges-xiaomi-hue-tradfri/52108) with interest currently and plan to move over to this platform removing the need to use the Xiaomi Gateway altogether.</p>
 <hr --- </hr>
 
 | [Xiaomi Gateway](https://www.banggood.com/Original-Xiaomi-Upgrade-Smart-Home-WiFi-Remote-Control-Multi-functional-Gateway-p-1047282.html?rmmds=search) | [Zigbee](http://www.zigbee.org/what-is-zigbee/) | [SmartThings Hub](https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE) | [Z-Wave](http://www.z-wave.com/) |
 | --- | --- | --- | --- |
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Gateway.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Zigbee.png" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Samsung-Smart-Hub-1.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/ZWave.png" width="250"/> |
 
-<h4 align="left">Voice Control:</h4>
+<h4 align="left">Zigbee Gateway:</h4>
 <p align="left">I use a combination of Amazon Echo and Echo Dot's in conjunction with HA Cloud with its Alexa Intergration to enable voice control over most functions in the house. My wife hates the voice control (she wants to be the only female voice of control in our house) but my young boys love it.</p>
