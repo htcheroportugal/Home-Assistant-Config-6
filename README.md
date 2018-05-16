@@ -65,6 +65,8 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 <p align="left">I have 4 SSID one for each of admin access, family access, guest access & smart home device access. I used to run a Cambium cnPilot E400 which I was given by Cambium for testing in a "Conference Environment" it was meant to be able to handle 100 similtaneous youtube streams well it started to fall over after about 35 connected clients (not streaming anything). Rather then filling the house with several APs I decided to go for the best in the business and am using a single Altai AP which is capable of handling 512 clients (currently have over 70 and still going strong). I only use 2.4G for access and have the 5G radio turned off as I use that spectrum for backhaul.</p>
 <h4 align="left">Wireless PTMP Links:</h4>
 <p align="left">I have a few impossible to cable areas of my 2 storey house (without running external ducting), between upstairs and downstairs and the outer wall of the downstairs area (where my media room is located). I have used a 19DBi UBNT NBE in AP mode connected directly to my Core Switch which links on 40Mhz channel to a unit in my media room and another upstairs which feeds into a Mikrotik switch that connects any ethernet devices upstairs</p>
+<h4 align="left">Network Management:</h4>
+<p align="left">content goes here....</p>
 <hr --- </hr>
 
 <h3 align="left">Voice Control & TTS</h3> 
@@ -91,4 +93,4 @@ After using HA for a few months I began to really enjoy the sometimes complicate
 * Reoccurring Events - Reminder msg to take out bins night before rubbish collection day, with alt msg for recycling week</br>
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
 * Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
-
+<hr --- </hr>
