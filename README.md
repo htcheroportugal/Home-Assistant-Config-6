@@ -9,7 +9,7 @@
   
   | [Home Assistant Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
   | --- |
-  [HADashboard Screenshots]() |
+  | [HADashboard Screenshots]() |
   | --- |
 </p>
 <hr --- </hr>
