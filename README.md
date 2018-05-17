@@ -7,7 +7,7 @@
 <p align="center">
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
-
+<hr --- </hr>
 | [Home Assistant Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
 | --- |
 | [<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20Screenshots/01.%20Home.png"/>](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
@@ -27,7 +27,7 @@
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="200"/> 
 <p align="left">There is nothing special regarding the hardware used when I start to notice available hardware resources becoming exhausted I will look to move to another platform. 
 <hr --- </hr>
-
+<hr --- </hr>
 
 | [Raspberry Pi 3 Model B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) | [Raspberry Pi 3 Model B+ Enclosure](https://core-electronics.com.au/raspberry-pi-3-case-enclosure.html) | [SandDisk Ultra 32GB Micro SD Card](https://www.officeworks.com.au/shop/officeworks/p/sandisk-ultra-32gb-micro-sdhc-memory-card-sdsq32gb) | [Raspberry Pi 3+ Power Supply](https://core-electronics.com.au/raspberry-pi-3-power-supply.html) |
 | --- | --- | --- | --- |
@@ -50,6 +50,7 @@ One of the first things I needed to do once I got HA up and running was to setup
 I have a bunch of wall mounted tablets (Android & IOS) as well as RPi with 7" touchscreens and whilst I like the standard HA UI there is way too much going on for my wife and guests who need to interact with the smart home system. In cometh HADashboard, it wraps up your basic controls (lights, cooling, heating, music etc) into nice looking widgets that make using the smart home controls a breeze for any non-tech person in the house (everyone but me). 
 <h4 align="left">Node-RED:</h4>
 After using HA for a few months, I began to really enjoy the sometimes-complicated methods of using automations, I also came to realise some of the limitations in its implementations. I found a good repo with an easy to follow installation guide by NotoriousBDG here (https://github.com/notoriousbdg/hassio-addons/tree/master/node-red) this handles any of my more complicated flows and conditioning required for my Automations.
+<hr --- </hr>
 <hr --- </hr>
 
 <h3 align="left">Kingia Castle Network</h3>
@@ -82,6 +83,7 @@ Altai AP is configured by its Web UI, these are commercial APs and are not desig
 
 The big bonus with Altai is their antenna design and ability to cover a great distance with a single AP and the amount of simultaneous connected clients it can handle. In my place so far, I have tried Mikrotik (coverage is poor due to low power and antenna design), UBNT (poor client handling and very susceptible to interference), Cambium (poor coverage and client handling was better than UBNT but not enough), Ruckus (great coverage poor client and roaming handover without controller)</p>
 <hr --- </hr>
+<hr --- </hr>
 
 <h3 align="left">Voice Control & TTS</h3> 
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/alexa.png" width="150"/> 
@@ -108,6 +110,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 * Warning Events - Notify of Alarm Trigger, Arming, Outdoor Motion, Smoke/C02 Detection</br>
 * Automation Notify - Notify on certain Automation runs like when sun is above horizon and lights are still on I turn them off &nbsp; &nbsp; and have TTS play a message "I guess I better turn the lights off or Tina will leave them on all day"
 <hr --- </hr>
+<hr --- </hr>
 
 <h3 align="left">Gateways</h3> 
 
@@ -125,6 +128,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <p align="left">As stated above I use the Xiaomi Gateway as a bridge for all of my Xiaomi family of Zigbee and Wi-FI based sensors into HA. It has a not so friendly to use App and all spoken commands are in Chinese. It does intergrate with its ecosystem ok, with support for using its switches as door bells and playing a sound it also has a rgb led which will change colours on events like smoke detection it turns red or alarm trigger.</p>
 <h4 align="left">Z-Wave Gateway:</h4>
 <p align="left">I bought a Smart Things Hub at the same time I purchased my Echo whilst I was in the USA, I had intended to use it as the bases of my smart home but once again there was no support for the Australian market at the time and there still is no word of it being released here. I keep it around as one of the things on my list still to integrate is my front door lock and the security protocols on most Door locks don’t work directly with HA, but they will with Smart Things. Also, most door locks seem to use Z-Wave protocol, the frequencies for Z-Wave differ for Australia from the USA (here in Australia that part of the spectrum is used by a cellular carrier), so I will need to change it anyway. So, now it’s a white brick occupying space in my data rack and network I am hoping I can find a decent Wi-Fi/Bluetooth Door lock and can do away with it altogether.</p>
+<hr --- </hr>
 <hr --- </hr>
 
 <h3 align="left">Sensors</h3> 
@@ -147,6 +151,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <p align="left">I have a few of these around the place and a bunch more waiting to find a use for. The reason I got these was once I connected the ceiling fans to a 4ch Sonoff (more on these later) I disconnected the wall switch for the fans. This drove my wife crazy having to turn the fans on and off via her phone (lots of swearing and you need to rip this f*&^%$# smart home crap out), so I purchased about 10 or so of these Xiaomi Smart Switches. I use them to on single click cycle which upon a single click, it cycles through increasing the fan speeds and last one turns it off. I also use one at the entrance as a door bell which is used in several automations one for recording of ip camera and displaying it on the alarm panel screen by the front door. If we are watching TV/Movie it pauses what we are watching (Cable or Kodi) and turns the lights up displays who is at the front door from a snapshot taken with the camera recording. I also have one in the entertainment area for manually turning the (20) Edison bulbs on/off and fairy lighting modes. These switches have single click, double click and long press modes so can be used to trigger several automations of the one unit.</p>
 <h4 align="left">Temperature & Humidity Sensors:</h4>
 <p align="left">I have one of these in every room of the house as well as one located in the entertaining area out the back of the house. I use them mainly to tell me the temperature but do use them to trigger automations around when to turn on the bathroom heating and with a moisture sensor in the shower to trigger the exhaust fan. These are also used to control the climate in the bedrooms of a night time, not really for the main living areas.</p>
+<hr --- </hr>
 <hr --- </hr>
 
 <h3 align="left">Fan & Lighting Control</h3> 
