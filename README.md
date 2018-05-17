@@ -8,11 +8,13 @@
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
 
-[Home Assistant Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots)
-
+| [Home Assistant Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
+| --- |
 | [<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20Screenshots/01.%20Home.png"/>](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
 
-| [HADashboard Screenshots]() |
+| [HADashboard Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HADashboard%20Screenshots) |
+| --- |
+| [<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20Screenshots/01.%20Home.png"/>](https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HADashboard%20Screenshots/HADash%20-%20Downstairs%20Panel.png) |
 </p>
 
 <hr --- </hr>
