@@ -7,7 +7,6 @@
 <p align="center">
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
-<hr *** </hr>
 
 | [Home Assistant Screenshots](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
 | --- |
@@ -27,7 +26,6 @@
 <h3 align="left">Home Assistant Hardware</h3> 
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Logo.png" width="200"/> 
 <p align="left">There is nothing special regarding the hardware used when I start to notice available hardware resources becoming exhausted I will look to move to another platform. 
-<hr --- </hr>
 <hr --- </hr>
 
 | [Raspberry Pi 3 Model B+](https://core-electronics.com.au/raspberry-pi-3-model-b-plus.html) | [Raspberry Pi 3 Model B+ Enclosure](https://core-electronics.com.au/raspberry-pi-3-case-enclosure.html) | [SandDisk Ultra 32GB Micro SD Card](https://www.officeworks.com.au/shop/officeworks/p/sandisk-ultra-32gb-micro-sdhc-memory-card-sdsq32gb) | [Raspberry Pi 3+ Power Supply](https://core-electronics.com.au/raspberry-pi-3-power-supply.html) |
@@ -170,5 +168,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <h4 align="left">Light Switches:</h4>
 <p align="left">I use the Sonoff Basic & Dual for single and dual wall switches respectively and these are pretty straight forward flashed with Tasmota Firmware and added to HA via the MQTT Switch component. I installed all of these switches behind the existing wall plates and connected the original switch to the available gpio pins on the board.</p>
 <h4 align="left">3 Speed Ceiling Fans:</h4>
-<p align="left">I use the Sonoff 4Ch again flashed with the same firmware and I connected first ch to the high speed of the fan, 2nd & 3rd ch are connected to the med and low via a 6uf capacitor. The last channel is connected to the light switch again I used the gpio pin to connect the board to the wall plate so the light can still be controlled via the wall switch. These can now be voice controlled via Alexa turn fan on/off turn fan speed to low, medium & high.</p>
+<p align="left">I use the Sonoff 4Ch again flashed with the same firmware and I connected first ch to the high speed of the fan, 2nd & 3rd ch are connected to the med and low via a 6uf capacitor. The last channel is connected to the light switch again I used the gpio pin to connect the board to the wall plate, so the light can still be controlled via the wall switch. These can now be voice controlled via Alexa turn fan on/off turn fan speed to low, medium & high.</p>
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Fan%20CCT.png"/>
+<h4 align="left">Garage Door:</h4>
+<p align="left">I have an RF controlled relay connected to my garage door opener and I use the Sonoff RF Bridge to control it. I also have a Xiaomi Door Sensor to tell me whether the garage door is open. At the moment I use a Xiaomi smart switch located in the garage to control the door whilst I’m in there "Single Click" up, down and stop, "Double Click" Garage Light, Long Click manual up and down this way I can adjust how open I would like the door to be if I’m working in there. I wish to add a Bluetooth beacon to introduce geofencing to have the door open automatically when we are arriving home but atm there isn't enough room to fit the car due to my abundance of toys I no longer use.</p>
