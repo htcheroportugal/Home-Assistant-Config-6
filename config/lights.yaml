@@ -1,0 +1,44 @@
+####################################################
+#                                                  #
+#                     Sonoff                       #
+#                                                  #
+####################################################
+
+- alias: Living Room
+  platform: mqtt
+  name: "Living Room Lamp"
+  state_topic: "stat/sonoff-light-lounge/POWER"
+  command_topic: "cmnd/sonoff-light-lounge/power"
+  payload_on: "ON"
+  payload_off: "OFF"
+  
+####################################################
+#                                                  #
+#                    Phillips                      #
+#                                                  #
+####################################################
+
+- platform: xiaomi_miio
+  name: Entrance Bulb
+  host: 10.0.50.3
+  token: 493ef5d4e05454f38c8e355ef4ee352e
+  model: philips.light.bulb
+  
+- platform: xiaomi_miio
+  name: Lounge Bulb
+  host: 10.0.50.2
+  token: 2377d338cc7a58dbb3f4de99270b2875
+  model: philips.light.bulb
+  
+- platform: xiaomi_miio
+  name: Dining Bulb
+  host: 10.0.50.4
+  token: cb1dfa5d27d54720850b49f4965ca7df
+  model: philips.light.bulb
+  
+- platform: xiaomi_miio
+  name: Hall Bulb
+  host: 10.0.50.1
+  token: 6b80709a68321030b7cdeae3230085c2
+  model: philips.light.bulb
+  

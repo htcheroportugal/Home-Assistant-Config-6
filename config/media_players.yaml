@@ -1,0 +1,39 @@
+####################################################
+#                                                  #
+#                      Kodi                        #
+#                                                  #
+####################################################
+
+- platform: kodi
+  host: 10.0.1.1
+  name: Media 4K Kodi
+  
+- platform: kodi
+  host: 10.0.1.2
+  name: Bedroom Kodi
+  
+- platform: kodi
+  host: 10.0.1.4
+  name: Patio Kodi
+  
+- platform: kodi
+  host: 10.0.3.1
+  name: TTS Kodi
+  username: kodi
+  password: kodi
+  
+####################################################
+#                                                  #
+#                    Samsung TV                    #
+#                                                  #
+####################################################
+
+- platform: samsungtv
+  host: 10.0.2.1
+  port: 8001
+  name: Media 4K TV
+  mac: 40:16:3B:57:AC:5E
+  
+- platform: samsungtv
+  host: 10.0.2.2
+  name: Bedroom TV
