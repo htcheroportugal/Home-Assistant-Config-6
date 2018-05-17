@@ -8,7 +8,7 @@
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
 
-### Screenshots
+[<h3 Home Assistant Screenshots</h3>](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots)
 
 | [<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/HA%20Screenshots/01.%20Home.png"/>](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/HA%20Pics/HA%20Screenshots) |
 | --- |
