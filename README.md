@@ -153,5 +153,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 | --- | --- | --- | --- |
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Basic.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Dual.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%204ch.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20RF%20Bridge.jpg" width="250"/> |
 
-<h4 align="left">Sonoff Switches:</h4>
-<p align="left">***Content Here***</p>
+<h4 align="left">Light Switches:</h4>
+<p align="left">I use the Sonoff Basic & Dual for single and dual wall switches respectively and these are pretty straight forward flashed with Tasmota Firmware and added to HA via the MQTT Switch component. I installed all of these switches behind the existing wall plates and connected the original switch to the available gpio pins on the board.</p>
+<h4 align="left">3 Speed Ceiling Fans:</h4>
+<p align="left">I use the Sonoff 4Ch again flashed with the same firmware and I connected first ch to the high speed of the fan, 2nd & 3rd ch are connected to the med and low via a 6uf capacitor. The last channel is connected to the light switch again I used the gpio pin to connect the board to the wall plate so the light can still be controlled via the wall switch. These can now be voice controlled via Alexa turn fan on/off turn fan speed to low, medium & high.</p>
