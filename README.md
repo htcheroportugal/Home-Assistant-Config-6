@@ -189,7 +189,7 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <h4 align="left">LED Back Lighting:</h4>
 <p align="left">I purchased 3 x 5m LED strips to do the staircase mentioned above and had about 3.5m left after the project was complete so rather than let them go to waste (like they were ever going to be) I decided to place a few strips behind my PC Monitor, Media TV, Bedroom TV and Entertaining TV. Each strip is controlled by the Mi Light Wi-Fi LED controller and on normal nights they just give a soft blue glow from behind the screens. When music is playing I found a project where they had a script which would change the LED colour to match that of the Album artwork that was playing at the time. I also aim to port this across to work with Kodi and the TV Show/Movie Poster colours.</p>
 <h4 align="left">Entertainment Lighting:</h4>
-<p align="left">I have 20m festoon lighting with different sized Edison bulbs, it came with 20w bulbs (when turned on it light up not only the entertainment area but the whole suburb) I replaced them with 2-4w bulbs but I fear the damage to my retinas may be permanent. I also have 3 x 10m lengths of LED fairy lighting which run of USB connector. To power them I use a Xiaomi Power Strip which has 3 Power and 3 USB points.</p>
+<p align="left">I have 20m festoon lighting with different sized Edison bulbs, it came with 20w bulbs (when turned on it light up not only the entertainment area but the whole suburb) I replaced them with 2-4w bulbs but I fear the damage to my retinas may be permanent. I also have 3 x 10m lengths of LED fairy lighting which run off USB 5V. To power them I use a Xiaomi Power Strip which has 3 Power and 3 USB points.</p>
 <hr --- </hr>
 <hr --- </hr>
 
@@ -224,3 +224,6 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 | [Samsung Smart TV](https://www.jbhifi.com.au/) | [Nuc 7th Gen Core i7](https://www.umart.com.au/Intel-NUC-BOXNUC7i7BNH-Barebone-Kit---7th-Gen-Core-i7_39118G.html) | [Broadlink RM3 Mini](https://www.banggood.com/Broadlink-Black-Bean-Smart-Home-Wifi-Remote-IR-Controller-Universal-Appliances-Smart-Control-p-1049494.html) | [Pulse Eight CEC Adaptor](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) |
 | --- | --- | --- | --- |
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Samsung%20TV.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Nuc.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/RM3%20Mini.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Pulse%208%20CEC.png" width="250"/> |
+
+<h4 align="left">Smamsung Smart TVs:</h4>
+<p align="left">**Content in here**</p>
