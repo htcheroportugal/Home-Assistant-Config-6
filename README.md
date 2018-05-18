@@ -172,3 +172,16 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Fan%20CCT.png"/>
 <h4 align="left">Garage Door:</h4>
 <p align="left">I have an RF controlled relay connected to my garage door opener and I use the Sonoff RF Bridge to control it. I also have a Xiaomi Door Sensor to tell me whether the garage door is open. At the moment I use a Xiaomi smart switch located in the garage to control the door whilst I’m in there "Single Click" up, down and stop, "Double Click" Garage Light, Long Click manual up and down this way I can adjust how open I would like the door to be if I’m working in there. I wish to add a Bluetooth beacon to introduce geofencing to have the door open automatically when we are arriving home but atm there isn't enough room to fit the car due to my abundance of toys I no longer use.</p>
+
+<h3 align="left">LED Lighting</h3> 
+<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Xiaomi%20Logo.png" width="150"/>
+
+<p align="left">I like many others use Sonoff single, daul and 4ch switches to control the power to my lights over Wi-Fi. These units need to be flashed with firmware (plenty of info out there on how to do it, I used Tasmota Firmware). I have placed all of my switches behind the wall plate (Gyprock walls) had to make fairly large holes to accomodate the 4ch model but can always plaster it back up afterwoods(took me about 2 months of nagging to sand the patches and re paint walls).</p>
+<hr --- </hr>
+
+| [Sonoff Basic](http://sonoff.itead.cc/en/products/sonoff/sonoff-basic) | [Sonoff Dual](http://sonoff.itead.cc/en/products/sonoff/sonoff-dual) | [Sonoff 4CH](http://sonoff.itead.cc/en/products/sonoff/sonoff-4ch) | [Sonoff RF Bridge 433](http://sonoff.itead.cc/en/products/appliances/sonoff-rf-bridge-433) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Basic.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Dual.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%204ch.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20RF%20Bridge.jpg" width="250"/> |
+
+<h4 align="left">Light Switches:</h4>
+<p align="left">I use the Sonoff Basic & Dual for single and dual wall switches respectively and these are pretty straight forward flashed with Tasmota Firmware and added to HA via the MQTT Switch component. I installed all of these switches behind the existing wall plates and connected the original switch to the available gpio pins on the board.</p>
