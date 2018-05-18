@@ -212,3 +212,15 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <p align="left">I have lost count of how many of these things I have around the place, I use single plugs for those higher power consumers like the washer/dryer & fridges. The rest I have a heap of smart power strips powering everything else to give me insights into power consumption but mainly to control when devices are allowed to be on and consuming power. I have a strip setup in the laundry that all my battery appliances plug into (all the mentioned above) and this only turns during between 1-4am and only for long enough to charge all connected devices to 100%. I also do the same for my outdoor lighting they are all connected back to these strips and I then automate them to turn on x time after sunset for x amount of time and turn off again. Once bed time script is enabled they are then set to turn on upon motion in their areas. I also use one for my Christmas lighting to ensure they are on for the kids to enjoy (as I used to forget to turn them on until after they are in bed) and turn off by midnight.</p>
 <hr --- </hr>
 <hr --- </hr>
+
+<h3 align="left">Media Control</h3> 
+
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Samsung%20TV%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Kodi%20Logo.png" width="150"/> |
+| --- | --- |
+
+<p align="left">I like many others use Sonoff single, daul and 4ch switches to control the power to my lights over Wi-Fi. These units need to be flashed with firmware (plenty of info out there on how to do it, I used Tasmota Firmware). I have placed all of my switches behind the wall plate (Gyprock walls) had to make fairly large holes to accomodate the 4ch model but can always plaster it back up afterwoods(took me about 2 months of nagging to sand the patches and re paint walls).</p>
+<hr --- </hr>
+
+| [Sonoff Basic](http://sonoff.itead.cc/en/products/sonoff/sonoff-basic) | [Sonoff Dual](http://sonoff.itead.cc/en/products/sonoff/sonoff-dual) | [Sonoff 4CH](http://sonoff.itead.cc/en/products/sonoff/sonoff-4ch) | [Sonoff RF Bridge 433](http://sonoff.itead.cc/en/products/appliances/sonoff-rf-bridge-433) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Basic.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20Dual.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%204ch.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20RF%20Bridge.jpg" width="250"/> |
