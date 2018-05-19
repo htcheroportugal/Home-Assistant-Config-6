@@ -233,6 +233,8 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 - The Entertainment Kodi is a RPi model b+ with a HiFiBerry Amp hat more than enough for outdoor entertaining or watching &nbsp; the Rugby.</p>
 <h4 align="left">Media Servers:</h4>
 <p align="left">I use a pair of Netgear 2 bay NAS drives both contain 2 x 16Tb HDD and neither has redundancy(something I plan to sort in the very near future). These serve media to all devices around the house they are nothing special the read write times are pretty horrible but they get the job done and when they dont I will look at upgrading them.</p>
+<hr --- </hr>
+<hr --- </hr>
 
 <h3 align="left">Multi Room Audio</h3> 
 
