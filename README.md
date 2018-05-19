@@ -266,7 +266,7 @@ In this area I have a RPi Model B+ and I initially connected it to the 32" Samsu
 <hr --- </hr>
 
 <h3 align="left">Security</h3> 
-https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Android%20Things.png
+<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Android%20Things.png"/>
 
 <p align="left">There are many takes on Alarm Panels in the HA Forums I decided to go with this one (https://community.home-assistant.io/t/mqtt-alarm-control-panel-for-raspberry-pi-and-android/26484) which utilises the HA manual Alarm Panel component. It was really easy to setup with great detailed instructions, installed this on the recommended hardware metioned in the project.</p>
 <hr --- </hr>
