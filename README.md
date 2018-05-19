@@ -268,7 +268,7 @@ In this area I have a RPi Model B+ and I initially connected it to the 32" Samsu
 <h3 align="left">Security</h3> 
 <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Android%20Things.png" width="200"/>
 
-<p align="left">There are many takes on Alarm Panels in the HA Forums I decided to go with this one (https://community.home-assistant.io/t/mqtt-alarm-control-panel-for-raspberry-pi-and-android/26484) which utilises the HA manual Alarm Panel component. It was really easy to setup with great detailed instructions, installed this on the recommended hardware metioned in the project.</p>
+<p align="left">There are many takes on Alarm Panels in the HA Forums I decided to go with this one (https://community.home-assistant.io/t/mqtt-alarm-control-panel-for-raspberry-pi-and-android/26484) which utilises the HA Manual Alarm Panel component. It was really easy to setup with great detailed instructions, installed this on the recommended hardware metioned in the project.</p>
 <hr --- </hr>
 
 | [MQTT Alarm Control Panel](https://www.hackster.io/thanksmister/mqtt-alarm-control-panel-for-home-assistant-a206cc) | [Raspberry Pi 3+ Touch Screen Kit](https://core-electronics.com.au/raspberry-pi-3-touch-screen-kit.html) | [Design Spark Rpi Enclosure](https://au.rs-online.com/web/p/development-board-enclosures/9064665/) | [Raspberry Pi Camera Board](https://core-electronics.com.au/raspberry-pi-camera-board-v2-8-megapixels-38552.html) |
@@ -276,4 +276,6 @@ In this area I have a RPi Model B+ and I initially connected it to the 32" Samsu
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Alarm%20Panel.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Touch%20Screen%20Kit.png" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/RPi%20Touch%20Screen%20Enclosure.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Pi%20Camera.jpg" width="250"/> |
 
 <h4 align="left">MQTT Manual Alarm:</h4>
-<p align="left">***Content here***</p>
+<p align="left">I built the MQTT Alarm Panel as per the instructions the only things I did different was adapt a DesignSpark Touch Screen Enclosure to wall mount the Alarm Panel so it can be armed/disarmed as we come in the door. I also connected the RPi to a bluetooth speaker so any sounds will be played back through it.</p>
+<h4 align="left">Alarm Modes:</h4>
+<p align="left">The alarm panel has 2 </p>
