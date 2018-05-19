@@ -262,3 +262,18 @@ Toilets<br>
 To not miss out on any action when one needs a toilet break I have a RPi Zero with MiniAmp installed in the ceiling cavity above where the cheap Chinese dual firing 4" speaker is. There is one of these for the downstairs and upstairs toilets as well as in the hallway ceiling space.<br>
 Entertainment Area<br>
 In this area I have a RPi Model B+ and I initially connected it to the 32" Samsung TV via HDMI used the TV built in speakers for playback, whilst this was sufficient for watching sport I wanted more for music playback. I went with the HiFiBerry Amp2, this amp is capable of providing 60W and it packs a pretty decent punch for what it is. I paired this up with a set of Yamaha NS-AW392 Outdoor Speakers (these speakers are awesome). This combo ensures are entire block will know when we are entertaining, during the click here to purchase phase I could hear my wife in the background saying you are getting them for background music right? Of course babe :grin:.</p>
+<hr --- </hr>
+<hr --- </hr>
+
+<h3 align="left">Security</h3> 
+https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Android%20Things.png
+
+<p align="left">There are many takes on Alarm Panels in the HA Forums I decided to go with this one (https://community.home-assistant.io/t/mqtt-alarm-control-panel-for-raspberry-pi-and-android/26484) which utilises the HA manual Alarm Panel component. It was really easy to setup with great detailed instructions, installed this on the recommended hardware metioned in the project.</p>
+<hr --- </hr>
+
+| [MQTT Alarm Control Panel](https://www.hackster.io/thanksmister/mqtt-alarm-control-panel-for-home-assistant-a206cc) | [Raspberry Pi 3+ Touch Screen Kit](https://core-electronics.com.au/raspberry-pi-3-touch-screen-kit.html) | [Design Spark Rpi Enclosure](https://au.rs-online.com/web/p/development-board-enclosures/9064665/) | [Raspberry Pi Camera Board](https://core-electronics.com.au/raspberry-pi-camera-board-v2-8-megapixels-38552.html) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Alarm%20Panel.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Rasp%20Pi%20Touch%20Screen%20Kit.png" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/RPi%20Touch%20Screen%20Enclosure.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Pi%20Camera.jpg" width="250"/> |
+
+<h4 align="left">MQTT Manual Alarm:</h4>
+<p align="left">***Content here***</p>
