@@ -230,5 +230,5 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <h4 align="left">Kodi Hardware:</h4>
 <p align="left">- In the Media Room I run the latest 7th gen i7 Intel NUC with support for 4k playback, it has 16gb RAM and a SSD overkill for &nbsp; a Media PC but I like to have flawless playback of media files in this room.<br>
   - The Master Bedroom inherited the old Media PC which is a 5th gen i7 Intel NUC, SSD and 8gb RAM this rarely is used these &nbsp; days for media playback as the kids are still young once they learn to sleep in their own beds we should be able to use it &nbsp; &nbsp; &nbsp; &nbsp; again for that. It is used for music streaming however.<br>
-  - The Entertainment Kodi is a RPi model b+ with a HiFiBerry Amp hat more than enough for outdoor entertaining or watching &nbsp; &nbsp; the Rugby.</p>
+  - The Entertainment Kodi is a RPi model b+ with a HiFiBerry Amp hat more than enough for outdoor entertaining or watching &nbsp; the Rugby.</p>
 
