@@ -230,6 +230,21 @@ The big bonus with Altai is their antenna design and ability to cover a great di
 <h4 align="left">Kodi Hardware:</h4>
 <p align="left">- In the Media Room I run the latest 7th gen i7 Intel NUC with support for 4k playback, it has 16gb RAM and a SSD overkill for &nbsp; a Media PC but I like to have flawless playback of media files in this room.<br>
 - The Master Bedroom inherited the old Media PC which is a 5th gen i7 Intel NUC, SSD and 8gb RAM this rarely is used these &nbsp; days for media playback as the kids are still young once they learn to sleep in their own beds we should be able to use it &nbsp; &nbsp; &nbsp; &nbsp; again for that. It is used for music streaming however.<br>
-- The Entertainment Kodi is a RPi model b+ with a HiFiBerry Amp hat more than enough for outdoor entertaining or watching &nbsp; the Rugby.
-</p>
+- The Entertainment Kodi is a RPi model b+ with a HiFiBerry Amp hat more than enough for outdoor entertaining or watching &nbsp; the Rugby.</p>
+<h4 align="left">Media Servers:</h4>
+<p align="left">I use a pair of Netgear 2 bay NAS drives both contain 2 x 16Tb HDD and neither has redundancy(something I plan to sort in the very near future). These serve media to all devices around the house they are nothing special the read write times are pretty horrible but they get the job done and when they dont I will look at upgrading them.</p>
 
+<h3 align="left">Multi Room Audio</h3> 
+
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/xsqeeze%20logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Hifi%20Berry%20Logo.png" width="150"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Yamaha%20Logo.jpg" width="150"/> |
+| --- | --- | --- |
+
+<p align="left">***Content here</p>
+<hr --- </hr>
+
+| [Samsung Smart TV](https://www.jbhifi.com.au/) | [Nuc 7th Gen Core i7](https://www.umart.com.au/Intel-NUC-BOXNUC7i7BNH-Barebone-Kit---7th-Gen-Core-i7_39118G.html) | [Broadlink RM3 Mini](https://www.banggood.com/Broadlink-Black-Bean-Smart-Home-Wifi-Remote-IR-Controller-Universal-Appliances-Smart-Control-p-1049494.html) | [Pulse Eight CEC Adaptor](https://www.pulse-eight.com/p/104/usb-hdmi-cec-adapter) |
+| --- | --- | --- | --- |
+| <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Samsung%20TV.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Nuc.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/RM3%20Mini.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Pulse%208%20CEC.png" width="250"/> |
+
+<h4 align="left">Samsung Smart TVs:</h4>
+<p align="left">As stated above the Samsung TV Component doesn't give much control at all, so I use Pulse Eight CEC Adaptor connected to the Media Nuc in conjunction with the CEC component to give me more control over the TV it also allows the family to control Kodi with the standard TV remote. The bedroom screen CEC adaptor doesn't pass all functions through so I also use a RM3 mini to get the remainder of control via IR blaster (I already have one there to control the air conditioner). Lastly I have a RPi Kodi so it has CEC natively and I can control TV and Kodi as I want there is an RM3 Mini there also for controlling the Fairy lights modes.</p>
