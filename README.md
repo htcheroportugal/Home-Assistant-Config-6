@@ -280,6 +280,7 @@ In this area I have a RPi Model B+ and I initially connected it to the 32" Samsu
 <h4 align="left">Alarm Modes:</h4>
 <p align="left">Arm Home<br>
 This is a kind of perimeter mode where it sets the exterior motion sensors and all door/window sensors to trigger the alarm sequence after 60 secs on motion detection and state change respectively. This mode allows us to walk about the house and frees up the indoor motion sensors to be used to trigger lights after it has been set with triggering alarm. If alarm is triggered the panel will beep every 5 secs for the first 60 secs to let you know you need to enter a valid code or it will sound the alarm, fire off TTS messages, start recording from all cameras etc etc.<br>
+  
 Arm Away<br>
 This arms the perimeter as above but it also arms tells the indoor motions sensors they are on watchdog mode and any motion detection from them will set of the alarm sequence as above. I get notifications to my slack, email and tasker I don't have it going to our phones via sms incase we are ever in the house with the would be assisins (thats right I have made plenty of enemies in my time).<br>
 </p>
