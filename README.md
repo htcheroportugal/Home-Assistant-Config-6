@@ -11,8 +11,8 @@
 | [Topology](https://github.com/JamesMcCarthy79/Home-Assistant-Config#smart-home-hardware-topology) | [HA Hardware](https://github.com/JamesMcCarthy79/Home-Assistant-Config#home-assistant-hardware) | [HA Software](https://github.com/JamesMcCarthy79/Home-Assistant-Config#home-assistant-software) | [Network](https://github.com/JamesMcCarthy79/Home-Assistant-Config#kingia-castle-network) | [Voice Control](https://github.com/JamesMcCarthy79/Home-Assistant-Config#voice-control--tts) |  [Gateways](https://github.com/JamesMcCarthy79/Home-Assistant-Config#gateways) | [Sensors](https://github.com/JamesMcCarthy79/Home-Assistant-Config#sensors) | [Fan & Lighting](https://github.com/JamesMcCarthy79/Home-Assistant-Config#fan--lighting-control) |
 | --- | --- | --- | --- | --- |--- | --- | --- |
 
- [LED Lighting](https://github.com/JamesMcCarthy79/Home-Assistant-Config#led-lighting) | [Appliances & Smart Power](https://github.com/JamesMcCarthy79/Home-Assistant-Config#appliances-and-smart-power) | [Media Control](https://github.com/JamesMcCarthy79/Home-Assistant-Config#media-control) | [Multi Room Audio](https://github.com/JamesMcCarthy79/Home-Assistant-Config#multi-room-audio) | [Security](https://github.com/JamesMcCarthy79/Home-Assistant-Config#security) | [Garden](https://github.com/JamesMcCarthy79/Home-Assistant-Config#garden) |
-|  --- | --- | --- | --- | --- | --- |
+ [LED Lighting](https://github.com/JamesMcCarthy79/Home-Assistant-Config#led-lighting) | [Appliances & Smart Power](https://github.com/JamesMcCarthy79/Home-Assistant-Config#appliances-and-smart-power) | [Media Control](https://github.com/JamesMcCarthy79/Home-Assistant-Config#media-control) | [Multi Room Audio](https://github.com/JamesMcCarthy79/Home-Assistant-Config#multi-room-audio) | [Security](https://github.com/JamesMcCarthy79/Home-Assistant-Config#security) | [Garden](https://github.com/JamesMcCarthy79/Home-Assistant-Config#garden) | [Config](https://github.com/JamesMcCarthy79/Home-Assistant-Config/tree/master/config) |
+|  --- | --- | --- | --- | --- | --- | --- |
 
 <hr --- </hr> 
 
