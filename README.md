@@ -286,4 +286,12 @@ This arms the perimeter as above but it also arms tells the indoor motions senso
 
 Panic Mode<br>
 During normal operation the alarm panel excepts a valid 4-digit code one for my wife and one for myself (as I type this I just thought I could use this for presence :+1:need to add to to-do list). If, however, you are in the unlikely or in my case seen too many movies very likely to happen scenario where you are being held at let’s say machete point (gun control is a big deal in Australia). There is a separate panic mode 4-digit code which will let you validate the alarm off sequence on the screen however it will send a msg to alert security company of situation #machetewieldingassailantsneedhelp.<br>
+
+<h4 align="left">Cameras:</h4>
+<p align="left">Exterior<br>
+On the exterior of the property I use HIKVision cameras they have motion detection night vision and integrate into HA without too much issue.<br>
+
+Interior<br>
+In the house I have TP Link NC250 and these integrate to HA with the "generic" camera platform there is a bit of lag displaying these in the HA UI and in HADash but I don’t really use HA for viewing the camera feeds.<br>
+I also bought a heap of Xiaomi Miji 1080p IP Cameras thinking they could be hacked and easily added to HA it appears this was not the case so I have about 10 of these cameras around the place but not integrated with HA.<br>
 </p>
