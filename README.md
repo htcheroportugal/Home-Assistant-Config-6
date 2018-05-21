@@ -298,11 +298,10 @@ I also bought a heap of Xiaomi Miji 1080p IP Cameras thinking they could be hack
 <hr --- </hr>
 
 <h3 align="left">Garden</h3> 
-<img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Open%20Sprinkler%20Logo.png" width="200"/>
 
 <p align="left">I have a pretty simple garden irrigation system using a Sonoff Basic and 12V Solenoid Valve. I also have a bunch of Moisture sensors conting back to a Raspberry Pi Zero.</p>
 <hr --- </hr>
 
-| [Sonoff POW](http://sonoff.itead.cc/en/products/sonoff/sonoff-pow) | [12V Solenoid](https://core-electronics.com.au/brass-liquid-solenoid-valve-12v-1-2-npt.html) | | [Pi Zero](https://core-electronics.com.au/raspberry-pi-zero-w-starter-kit.html) |[Mi Flora](https://core-electronics.com.au/brass-liquid-solenoid-valve-12v-1-2-npt.html) |
+| [Sonoff POW](http://sonoff.itead.cc/en/products/sonoff/sonoff-pow) | [12V Solenoid](https://core-electronics.com.au/brass-liquid-solenoid-valve-12v-1-2-npt.html) | [Pi Zero](https://core-electronics.com.au/raspberry-pi-zero-w-starter-kit.html) | [Mi Flora](https://core-electronics.com.au/brass-liquid-solenoid-valve-12v-1-2-npt.html) |
 | --- | --- | --- | --- |
 | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Sonoff%20POW.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/12V%20Solednoid.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Pi%20Zero.jpg" width="250"/> | <img src="https://github.com/JamesMcCarthy79/Home-Assistant-Config/blob/master/HA%20Pics/Mi%20Flora.jpg" width="250"/> |
