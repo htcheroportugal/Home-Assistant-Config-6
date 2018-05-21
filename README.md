@@ -7,6 +7,7 @@
 <p align="center">
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
+
 | [Topology](https://github.com/JamesMcCarthy79/Home-Assistant-Config#smart-home-hardware-topology) | 
 | --- |
 
