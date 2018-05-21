@@ -8,7 +8,7 @@
   I live in <img src="https://github.com/oxguy3/flags/blob/master/mini/au.png"/>, and therefor my links are for where I purchased from. There may be better (and most likely cheaper) sites in your local regions.</br>
 <hr --- </hr> 
 | [Topology](https://github.com/JamesMcCarthy79/Home-Assistant-Config#smart-home-hardware-topology) | [HA Hardware](https://github.com/JamesMcCarthy79/Home-Assistant-Config#home-assistant-hardware) | [HA Software](https://github.com/JamesMcCarthy79/Home-Assistant-Config#home-assistant-software) | [Network](https://github.com/JamesMcCarthy79/Home-Assistant-Config#kingia-castle-network) | [Voice Control](https://github.com/JamesMcCarthy79/Home-Assistant-Config#voice-control--tts) | [Gateways](https://github.com/JamesMcCarthy79/Home-Assistant-Config#gateways) | [Sensors](https://github.com/JamesMcCarthy79/Home-Assistant-Config#sensors) | [Fan & Lighting](https://github.com/JamesMcCarthy79/Home-Assistant-Config#fan--lighting-control) | [LED Lighting](https://github.com/JamesMcCarthy79/Home-Assistant-Config#led-lighting) | [Appliances & Smart Power](https://github.com/JamesMcCarthy79/Home-Assistant-Config#appliances-and-smart-power) | [Media Control](https://github.com/JamesMcCarthy79/Home-Assistant-Config#media-control) | [Multi Room Audio](https://github.com/JamesMcCarthy79/Home-Assistant-Config#multi-room-audio) | [Security](https://github.com/JamesMcCarthy79/Home-Assistant-Config#security) | [Garden](https://github.com/JamesMcCarthy79/Home-Assistant-Config#garden) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 <hr --- </hr> 
 
