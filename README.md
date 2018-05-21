@@ -293,5 +293,7 @@ On the exterior of the property I use HIKVision cameras they have motion detecti
 
 Interior<br>
 In the house I have TP Link NC250 and these integrate to HA with the "generic" camera platform there is a bit of lag displaying these in the HA UI and in HADash but I don’t really use HA for viewing the camera feeds.<br>
-I also bought a heap of Xiaomi Miji 1080p IP Cameras thinking they could be hacked and easily added to HA it appears this was not the case so I have about 10 of these cameras around the place but not integrated with HA.<br>
-</p>
+I also bought a heap of Xiaomi Miji 1080p IP Cameras thinking they could be hacked and easily added to HA it appears this was not the case so I have about 10 of these cameras around the place but not integrated with HA.</p>
+<hr --- </hr>
+<hr --- </hr>
+
