@@ -30,15 +30,15 @@ panel_iframe:
   configurator:
     title: Configurator
     icon: mdi:wrench
-    url: http://66c4055fd9fb.sn.mynetname.net:43218
+    url: !secret config_panel_url
   controlpanel:
     title: Control Panel
     icon: mdi:tablet-ipad
-    url: http://66c4055fd9fb.sn.mynetname.net:47080
+    url: !secret cantrol_panel_url
   nodered:
     title: Node-Red
     icon: mdi:shuffle-variant
-    url: http://66c4055fd9fb.sn.mynetname.net:41880
+    url: !secret node_panel_url
     
 ###################################################
 #                                                 #
@@ -60,15 +60,9 @@ config:
 http:
   api_password: !secret http_password
   trusted_networks:
-    - 10.0.6.1
-    - 10.0.6.2
-    - 10.0.6.3
+    - your IP's here
   cors_allowed_origins:
-    - http://10.0.0.1
-    - http://10.0.20.3:7080
-    - http://10.0.20.3:47080
-    - http://66c4055fd9fb.sn.mynetname.net:7080
-    - http://66c4055fd9fb.sn.mynetname.net:47080
+    - your IP's here
 
 updater:
 discovery:
@@ -137,12 +131,6 @@ cloud:
 ####################################################
 
 mqtt: 
-#  broker: m14.cloudmqtt.com
-#  port: 13898
-#  client_id: home-assistant-1
-#  keepalive: 60
-#  username: !secret cloudmqttuser
-#  password: !secret cloudmqttpass
   broker: core-mosquitto
   username: !secret mozzieuser
   password: !secret mozziepass
