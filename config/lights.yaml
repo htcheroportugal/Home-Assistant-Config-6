@@ -20,25 +20,25 @@
 
 - platform: xiaomi_miio
   name: Entrance Bulb
-  host: 10.0.50.3
-  token: 493ef5d4e05454f38c8e355ef4ee352e
+  host: !secret ent_bulb_ip
+  token: !secret ent_bulb_token
   model: philips.light.bulb
   
 - platform: xiaomi_miio
   name: Lounge Bulb
-  host: 10.0.50.2
-  token: 2377d338cc7a58dbb3f4de99270b2875
+  host: !secret lounge_bulb_ip
+  token: !secret lounge_bulb_token
   model: philips.light.bulb
   
 - platform: xiaomi_miio
   name: Dining Bulb
-  host: 10.0.50.4
-  token: cb1dfa5d27d54720850b49f4965ca7df
+  host: !secret dining_bulb_ip
+  token: !secret dining_bulb_token
   model: philips.light.bulb
   
 - platform: xiaomi_miio
   name: Hall Bulb
-  host: 10.0.50.1
-  token: 6b80709a68321030b7cdeae3230085c2
+  host: !secret hall_bulb_ip
+  token: !secret hall_bulb_token
   model: philips.light.bulb
   
