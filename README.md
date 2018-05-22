@@ -302,6 +302,9 @@ On the exterior of the property I use HIKVision cameras they have motion detecti
 Interior<br>
 In the house I have TP Link NC250 and these integrate to HA with the "generic" camera platform there is a bit of lag displaying these in the HA UI and in HADash but I don’t really use HA for viewing the camera feeds.<br>
 I also bought a heap of Xiaomi Miji 1080p IP Cameras thinking they could be hacked and easily added to HA it appears this was not the case so I have about 10 of these cameras around the place but not integrated with HA.</p>
+
+<h4 align="left">Smoke Detectors:</h4>
+<p align="left">I have installed 2 Xiaomi Honeywell Smkoe Detectors one Downstairs and the other upstairs. These sound an alarm when they detect smoke as you would expect they also flash the gateway LED red and the downstairs and hall light bulbs will flash red upon smoke alarm trigger. If alarm has been triggered and we are "away" it will fire off notifications to my wife and mines phones.</p>
 <hr --- </hr>
 <hr --- </hr>
 
