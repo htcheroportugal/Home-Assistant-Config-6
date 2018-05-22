@@ -1,7 +1,5 @@
   discovery_retry: 5
   gateways:
-    - mac: 78:11:DC:FD:81:2F
-      key: xo8eeeu5pki8ojta
-#    - mac: 78:11:DC:92:A4:AD
-#      key: 6d6d725a4a5079556849795444656178
+    - mac: !secret xiaomi_gw1_mac
+      key: !secret xiaomi_gw1_key
       
