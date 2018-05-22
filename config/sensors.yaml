@@ -25,14 +25,14 @@
   - platform: google_travel_time
     api_key: !secret google_maps
     name: 'Commute to Work'
-    origin: 7/9 Kingia Ct, Burleigh Heads QLD 4220, Australia
-    destination: 16/511 Olsen Ave, Southport QLD 4215, Australia
+    origin: !secret home_address
+    destination: !secret work_address
     
   - platform: google_travel_time
     api_key: !secret google_maps
     name: 'Commute to Home'
-    origin: 16/511 Olsen Ave, Southport QLD 4215, Australia
-    destination: 7/9 Kingia Ct, Burleigh Heads QLD 4220, Australia
+    origin: !secret work_address
+    destination: !secret home_address
 
 ####################################################
 #                                                  #
@@ -41,161 +41,161 @@
 ####################################################
 
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.bougainvillea_moisture
+    resource: http://myip/api/states/sensor.bougainvillea_moisture
     name: Bougainvillea Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.bougainvillea_conductivity
+    resource: http://myip/api/states/sensor.bougainvillea_conductivity
     name: Bougainvillea PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.bougainvillea_battery
+    resource: http://myip/api/states/sensor.bougainvillea_battery
     name: Bougainvillea Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.chilli_moisture
+    resource: http://myip/api/states/sensor.chilli_moisture
     name: Chilli Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.chilli_conductivity
+    resource: http://myip/api/states/sensor.chilli_conductivity
     name: Chilli PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.chilli_battery
+    resource: http://myip/api/states/sensor.chilli_battery
     name: Chilli Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.citrus_bed_moisture
+    resource: http://myip/api/states/sensor.citrus_bed_moisture
     name: Citrus Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.citrus_bed_conductivity
+    resource: http://myip/api/states/sensor.citrus_bed_conductivity
     name: Citrus PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.citrus_bed_battery
+    resource: http://myip/api/states/sensor.citrus_bed_battery
     name: Citrus Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.herb_patch_moisture
+    resource: http://myip/api/states/sensor.herb_patch_moisture
     name: Herb Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.herb_patch_conductivity
+    resource: http://myip/api/states/sensor.herb_patch_conductivity
     name: Herbs PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.herb_patch_battery
+    resource: http://myip/api/states/sensor.herb_patch_battery
     name: Herb Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.maple_bed_moisture
+    resource: http://myip/api/states/sensor.maple_bed_moisture
     name: Maple Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.maple_bed_conductivity
+    resource: http://myip/api/states/sensor.maple_bed_conductivity
     name: Maple PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.maple_bed_battery
+    resource: http://myip/api/states/sensor.maple_bed_battery
     name: Maple Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.mertyl_bed_moisture
+    resource: http://myip/api/states/sensor.mertyl_bed_moisture
     name: Mertyl Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.mertyl_bed_conductivity
+    resource: http://myip/api/states/sensor.mertyl_bed_conductivity
     name: Mertyl PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.mertyl_bed_battery
+    resource: http://myip/api/states/sensor.mertyl_bed_battery
     name: Mertyl Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.star_jasmine_moisture
+    resource: http://myip/api/states/sensor.star_jasmine_moisture
     name: Jasmine Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.star_jasmine_conductivity
+    resource: http://myip/api/states/sensor.star_jasmine_conductivity
     name: Jasmine PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.star_jasmine_battery
+    resource: http://myip/api/states/sensor.star_jasmine_battery
     name: Jasmine Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.strawberry_moisture
+    resource: http://myip/api/states/sensor.strawberry_moisture
     name: Strawberry Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.strawberry_conductivity
+    resource: http://myip/api/states/sensor.strawberry_conductivity
     name: Strawberry PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.strawberry_battery
+    resource: http://myip/api/states/sensor.strawberry_battery
     name: Strawberry Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.top_bed_moisture
+    resource: http://myip/api/states/sensor.top_bed_moisture
     name: Top Bed Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.top_bed_conductivity
+    resource: http://myip/api/states/sensor.top_bed_conductivity
     name: Top Bed PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.top_bed_battery
+    resource: http://myip/api/states/sensor.top_bed_battery
     name: Top Bed Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
     
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.veggie_patch_moisture
+    resource: http://myip/api/states/sensor.veggie_patch_moisture
     name: Veggie Patch Moisture
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.veggie_patch_conductivity
+    resource: http://myip/api/states/sensor.veggie_patch_conductivity
     name: Veggie Patch PH Level
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "µS/cm"
   - platform: rest
-    resource: http://10.0.20.5:8123/api/states/sensor.veggie_patch_battery
+    resource: http://myip/api/states/sensor.veggie_patch_battery
     name: Veggie Patch Battery
     value_template: '{{ value_json.state }}'
     unit_of_measurement: "%"
@@ -668,5 +668,5 @@
 
   - platform: xiaomi_miio_raw
     name: Any Xiaomi MiIO device
-    host: 10.0.100.1
-    token: 2f4d188389e9425a7cc2d77947413e24
+    host: !secret xiaomi_raw_ip
+    token: !secret xiaomi_raw_token
