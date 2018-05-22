@@ -130,7 +130,7 @@ admin_samsung:
   icon:
   mac:
   name: James
-  picture:
+  picture: /local/james.jpg
   track: true
   vendor:
 
@@ -139,7 +139,7 @@ admin_iphone:
   icon:
   mac:
   name: Tina
-  picture:
+  picture: /local/tina.jpg
   track: true
   vendor:
 
