@@ -6,7 +6,7 @@
 
   - name: Galaxy_Tab_A_(2016)
     platform: lannouncer
-    host: 10.0.6.3
+    host: !secret lannouncer_ip
     
 ####################################################
 #                                                  #
@@ -18,5 +18,5 @@
     host: 10.0.3.1   
     port: 8080                   
     name: TTS_Kodi                    
-    username: kodi            
-    password: kodi
+    username: !secret tts_user           
+    password: !secret tts_pass
