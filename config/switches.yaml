@@ -5,8 +5,8 @@
 ####################################################
 
 - platform: broadlink
-  host: 10.0.30.1
-  mac: '34:EA:34:88:DA:06'
+  host: !secret rm3_lounge_ip
+  mac: !secret rm3_lounge_mac
   timeout: 15
   switches:
     aircon_power:
@@ -82,8 +82,8 @@
       command_on: 'JgDqAJOUEzcSOBI3ExISExITEhMSEhM3EzcSNxUQExISExITEhMRExM3EhMSOBISExITNxITEjcTEhM3EhMSNxM3ExISOBISExITEhMSEgAFc5SUEjgSNxM3EhMSExISEhMSExI4EjcTNxITEhMSExISExITEhI4EhMSNxMSEhMSOBISEzcSExI4EhITNxI4EhMSNxMSEhMSExITEgAFc5OUEzcSOBI3ExITEhITEhMSEhM3EzcSNxMSEhMSExITEhMRExM3EhMSOBISExITNxITEjcTEhM3EhMROBM3EhMSNxMSExISExITEgANBQAAAAAAAAAAAAAAAAAA'
       
 - platform: broadlink
-  host: 10.0.30.2
-  mac: '34:EA:34:41:40:D3'
+  host: !secret rm3_bed_ip
+  mac: !secret rm3_bed_mac
   timeout: 15
   switches:
     bedroom_aircon_power:
@@ -376,7 +376,7 @@
 
 - platform: xiaomi_miio
   name: RPi Switch
-  host: 10.0.70.1
-  token: 2953b5ce333420d371247bebafdb4fcb
+  host: !secret washing_plug_ip
+  token: !secret washing_plug_token
   model: chuangmi.plug.m1
 
