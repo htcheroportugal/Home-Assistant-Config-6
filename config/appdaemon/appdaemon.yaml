@@ -9,7 +9,7 @@ appdaemon:
   plugins:
     HASS:
       type: hass
-      ha_url: http://66c4055fd9fb.sn.mynetname.net:48123
+      ha_url: !secret http_url
       ha_key: !secret http_password
 hadashboard:
   dash_url: http://127.0.0.1:5050
