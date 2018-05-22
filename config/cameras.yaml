@@ -5,7 +5,7 @@
 ####################################################
 
 - platform: generic
-  still_image_url: http://10.0.10.1:8080/stream/snapshot.jpg
+  still_image_url: !secret baby_monitor_url
   name: Baby Monitor
   username: admin
   password: !secret camera_password
