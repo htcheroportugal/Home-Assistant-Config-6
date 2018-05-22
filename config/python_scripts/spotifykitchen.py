@@ -1,2 +1,2 @@
 import requests
-requests.get('https://autoremotejoaomgcd.appspot.com/sendmessage?key=APA91bHqcUimOkRg69yH6pEYpETwd06CcknqBfd3Kpl1wwg4jgGZ38nzZ88Yfdjucx2FOezppt6U2WVulA3U3Fuyce51o6YiAaet7ulSDx_pWaDuBIflToz59mhr_sYdqWqo19Tv87Be&message=SpotifyOn')
+requests.get(***Your_URL_here***=SpotifyOn')
