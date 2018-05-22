@@ -1,2 +1,2 @@
 import requests
-requests.get('https://autoremotejoaomgcd.appspot.com/sendmessage?key=APA91bFxvYQ2C1zm4sI8x9cuztSjc_UBc-QFkpGpk0a24ktYHWQPlMaBlSk5ROuLnu0TxC-0qrlhitUfs_CDPZnzkaPZTMx8bA3NR-KntC99fD4V-8YVkEUi32paaaD3pmJk_e9KwJp0&message=SayOn')
+requests.get(***Your_URL_Here***=SayOn')
