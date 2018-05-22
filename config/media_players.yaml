@@ -5,19 +5,19 @@
 ####################################################
 
 - platform: kodi
-  host: 10.0.1.1
+  host: !secret media_kodi_ip
   name: Media 4K Kodi
   
 - platform: kodi
-  host: 10.0.1.2
+  host: !secret bedroom_kodi_ip
   name: Bedroom Kodi
   
 - platform: kodi
-  host: 10.0.1.4
+  host: !secret patio_kodi_ip
   name: Patio Kodi
   
 - platform: kodi
-  host: 10.0.3.1
+  host: !secret tts_kodi_ip
   name: TTS Kodi
   username: kodi
   password: kodi
@@ -29,11 +29,11 @@
 ####################################################
 
 - platform: samsungtv
-  host: 10.0.2.1
+  host: !secret media_tv_ip
   port: 8001
   name: Media 4K TV
-  mac: 40:16:3B:57:AC:5E
+  mac: !secret media_tv_mac
   
 - platform: samsungtv
-  host: 10.0.2.2
+  host: !secret bed_tv_ip
   name: Bedroom TV
